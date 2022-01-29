@@ -1,3 +1,37 @@
-.active {
-    color: rgb(255, 255, 255);
+#carouselBasicExample {
+    height: 100vh;
+
+
+}
+
+.carousel-item:nth-child(1) {
+
+    height: 100vh;
+    background-image: url("img/slider_1.png");
+
+}
+
+.carousel-item:nth-child(2) {
+
+    height: 100vh;
+    background-image: url("img/slider_2.png");
+
+}
+
+.carousel-item:nth-child(3) {
+
+    height: 100vh;
+    background-image: url("master/img/slider_3.png");
+
+}
+
+.carousel-inner {
+
+    height: 100vh;
+}
+
+.carousel-item.active {
+
+    height: 100vh;
+    background-image: url(img/slider_1.png);
 }
