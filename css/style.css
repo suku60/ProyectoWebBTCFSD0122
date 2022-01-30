@@ -2,6 +2,19 @@
 
 /* Pokéball */
 
+#black_margin_pokeball {
+    background-color: rgb(4, 0, 0);
+
+    height: 30.2em;
+    width: 30.2em;
+    
+    position: relative;
+    margin: 1em;
+    margin-left: 0%;
+
+    border-radius: 100%;
+}
+
 #pokeBall {
     background-color: rgba(255, 0, 0, 0);
 
