@@ -162,4 +162,16 @@
 
 #pokeballMenu {
     margin-top: 1em;
+
+    
 }
+
+/* .element {
+    // Three columns to start
+    @include row-cols(3);
+  
+    // Five columns from medium breakpoint up
+    @include media-breakpoint-up(md) {
+      @include row-cols(5);
+    }
+  } */
