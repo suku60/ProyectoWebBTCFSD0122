@@ -201,3 +201,6 @@
     margin: 1em;
 }
 
+#navbar_card {
+    display: none;
+}
