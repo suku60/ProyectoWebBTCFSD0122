@@ -200,7 +200,13 @@
 #pokecard {
     margin: 1em;
 }
+ 
+#form_container {
 
-#navbar_card {
-    display: none;
+    margin-top: 3em;
+}
+
+#black_container {
+    width: 100vw;
+    height: 2em;
 }
