@@ -136,8 +136,6 @@
 #buttonBall_front {
     background-color: white;
 
-    background-image: url(img\chocolateEvee.png) no-repeat;
-
     height: 10em;
     width: 10em;
 
@@ -155,8 +153,6 @@
 
 #buttonBall_front:hover {
     background-color: white;
-
-    background-image: url(img\chocolateEvee.png) no-repeat;
 
     height: inherit;
     width: 25em;
